@@ -1,4 +1,4 @@
-package designpattern.creational_patterns.factory_method.java;
+package designpattern.creational_patterns.factory_method.simple;
 
 import lombok.Getter;
 import lombok.Setter;

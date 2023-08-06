@@ -1,4 +1,4 @@
-package designpattern.creational_patterns.factory_method.java;
+package designpattern.creational_patterns.factory_method.simple;
 
 public class WhiteShip extends Ship {
 
