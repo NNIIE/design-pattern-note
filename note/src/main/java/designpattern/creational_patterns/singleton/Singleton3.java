@@ -1,0 +1,18 @@
+package designpattern.creational_patterns.singleton;
+
+/**
+ * static inner class
+ */
+public class Singleton3 {
+
+    private Singleton3() {}
+
+    private static class SingletonHolder {
+        private static final Singleton3 INSTANCE = new Singleton3();
+    }
+
+    public static Singleton3 getInstance() {
+        return SingletonHolder.INSTANCE;
+    }
+
+}
