@@ -1,0 +1,13 @@
+build/
+.gradle/
+.gradle/
+singleton.obj
+singleton3.obj
+settings.gradle
+gradlew.bat
+gradlew
+build.gradle
+.gradle/
+.idea/
+.gradle/
+gradle/
